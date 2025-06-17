@@ -1,6 +1,21 @@
-This repository contains notebooks covering the fundamental concepts of Python programming.
-It is designed to be run using Anaconda Jupyter Notebook for an interactive learning experience.
+# Python Basics
 
-The content is compiled and adapted from trusted sources such as W3Schools, GeeksforGeeks, and ChatGPT.
+This repository contains Jupyter notebooks designed to help you learn the fundamentals of Python programming. Whether you're just starting out or need a refresher, these examples and explanations are a great place to begin.
 
-Feel free to explore the code, modify it, and use it as a learning resource!
+## 🧠 What's Inside
+
+* Variables and Data Types
+* Operators
+* Conditional Statements (`if`, `elif`, `else`)
+* Loops (`for`, `while`)
+* Functions
+* Lists, Tuples, Sets, Dictionaries
+* String Manipulation
+* Object-Oriented Programming (OOP) Basics
+
+## 🚀 Getting Started
+
+### Requirements
+
+* [Anaconda](https://www.anaconda.com/download)
+* Jupyter Notebook (included with Anaconda)
