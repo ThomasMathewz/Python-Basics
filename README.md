@@ -12,6 +12,8 @@ This repository contains Jupyter notebooks designed to help you learn the fundam
 * Lists, Tuples, Sets, Dictionaries
 * String Manipulation
 * Object-Oriented Programming (OOP) Basics
+* Numpy
+* Pandas and dataset
 
 ## 🚀 Getting Started
 
