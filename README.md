@@ -13,8 +13,10 @@ This repository contains Jupyter notebooks designed to help you learn the fundam
 * String Manipulation
 * File Handling (both text and image file)
 * Object-Oriented Programming (OOP) Basics
+* Modules
 * Numpy
 * Pandas and dataset
+* Pattern Printing
 
 ## 🚀 Getting Started
 
